@@ -13,7 +13,7 @@ import WorksSection from "./Components/WorksSection";
 function App() {
   return (
     <div className="flex">
-      <aside className="px-5 bg-gray-300">
+      <aside className="px-5 bg-white">
         <LeftSideBar/>
       </aside>
       <div className="bg-gray-300 h-full px-5">
